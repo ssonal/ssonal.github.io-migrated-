@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Lanyon
+tagline:          ''
+description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://lanyon.getpoole.com
+baseurl:          '/'
+paginate:         5
+
+author:
+  name:           'Sonal Saldanha'
+  url:            https://twitter.com/sonalsaldanha
+
+# Custom vars
+version:          1.0.0
+
+github:			  https://github.com/sonal-saldanha/  
